@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
 
 ###
 
