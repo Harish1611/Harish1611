@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+
 
 ###
 
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 </div>
 
 ###
-
+<h3 align="left">🛠 Language and tools</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
