@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left"> I'm Harish Naidu from Vijayawada <br><br>- 🔭 I’m currently looking for an Opportunity <br>- 📚 I'm currently learning DSA <br>- ⚡ In my free time I ...</p>
+<p align="left"> I'm Harish Naidu from Vijayawada <br><br>- 🔭 I’m currently looking for an Opportunity <br>- 📚 I'm currently learning DSA <br> <!-- - ⚡ In my free time I ... --></p>
 
 ###
 
