@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-Visit: <a href="https://portfolio-website-react-eta.vercel.app/" > <stong> My Portfolio </stong> </a>
+Visit: <a href="https://portfolio-website-react-eta.vercel.app/" target="blank" > <stong> My Portfolio </stong> </a>
 
 
 ###
