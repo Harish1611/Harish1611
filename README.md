@@ -72,9 +72,7 @@ Visit: <a href="https://portfolio-website-react-eta.vercel.app/" target="_blank"
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
-   <img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-2752148-2284965.png" alt="javascript" width="40" height="40" style="margin-right: 20px;">
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" style="margin-right: 20px;">
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40" style="margin-right: 20px;">
+  
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40" style="margin-right: 20px;">
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-3-1175138.png" alt="mongodb" width="40" height="40" style="margin-right: 20px;">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin-right: 20px;">
