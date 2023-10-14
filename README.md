@@ -13,9 +13,9 @@
 
 ###
 
-<div align="left">
+<h2 align="left">
 Visit: <a href="https://portfolio-website-react-eta.vercel.app/" target="_blank" > <stong> My Portfolio </stong> </a>
-</div>
+</h2>
 <hr>
 
 
