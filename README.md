@@ -2,22 +2,30 @@
 <h1 align="center">Hi 👋, I'm Harish Naidu Bonam</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
-<h3 align="left">👩‍💻  About Me</h3>
 
+###
+
+<div  align="left">
+<h3>
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/99854022/282250917-f81f7475-1d4e-4c50-b897-6700b4e6ba61.png"  alt="About_Me"  height="20"  /> About Me
+</h3>
+ </div>
+ 
 ###
 
 <p align="left"> I'm Harish Naidu from Vijayawada, India <br><br>- 🔭 I’m currently looking for an Opportunity <br> - ⚡ Interested Roles: Software Developer/ Fullstack Developer</p>
 
 
-
-
-###
 <div  align="left">
 <h3>
-<a href="https://portfolio-website-react-eta.vercel.app/" target="_blank" > <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/99854022/282248825-3eaa8c6b-fcbf-45de-9242-ee133d207ad3.png" style="padding-top:20px" alt="Portfolio"  height="30"  /> 
+<a href="https://portfolio-website-react-eta.vercel.app/" target="_blank" > <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/99854022/282248825-3eaa8c6b-fcbf-45de-9242-ee133d207ad3.png"  alt="Portfolio"  height="20"  /> 
  <stong> My Portfolio </stong> </a>
 </h3>
  </div>
+<hr>
+
+###
+
 <hr> 
 
 
