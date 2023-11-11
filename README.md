@@ -14,7 +14,7 @@
 ###
 <div  align="left">
 <h3>
-<a href="https://portfolio-website-react-eta.vercel.app/" target="_blank" > <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/99854022/282248825-3eaa8c6b-fcbf-45de-9242-ee133d207ad3.png" style="margin-bottom:-20px" alt="Portfolio"  height="30"  /> 
+<a href="https://portfolio-website-react-eta.vercel.app/" target="_blank" > <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/99854022/282248825-3eaa8c6b-fcbf-45de-9242-ee133d207ad3.png" style="padding-top:-20px" alt="Portfolio"  height="30"  /> 
  <stong> My Portfolio </stong> </a>
 </h3>
  </div>
