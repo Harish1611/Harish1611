@@ -7,7 +7,7 @@
 
 <div  align="left">
 <h3>
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/99854022/282250917-f81f7475-1d4e-4c50-b897-6700b4e6ba61.png"  alt="About_Me"  height="20"  /> About Me
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/99854022/282250917-f81f7475-1d4e-4c50-b897-6700b4e6ba61.png"  alt="About_Me"  height="30"  /> About Me
 </h3>
  </div>
  
@@ -18,7 +18,7 @@
 
 <div  align="left">
 <h3>
-<a href="https://portfolio-website-react-eta.vercel.app/" target="_blank" > <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/99854022/282248825-3eaa8c6b-fcbf-45de-9242-ee133d207ad3.png"  alt="Portfolio"  height="20"  /> 
+<a href="https://portfolio-website-react-eta.vercel.app/" target="_blank" > <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/99854022/282248825-3eaa8c6b-fcbf-45de-9242-ee133d207ad3.png"  alt="Portfolio"  height="30"  /> 
  <stong> My Portfolio <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/99854022/282251352-7447c788-e1c6-463e-ab4b-c567bd9554d4.png"  alt="link"  height="14"  /> </stong> </a>
 </h3>
  </div>
