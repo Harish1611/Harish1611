@@ -22,9 +22,7 @@
  <stong> My Portfolio </stong> </a>
 </h3>
  </div>
-<hr>
 
-###
 
 <hr> 
 
