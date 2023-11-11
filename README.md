@@ -12,11 +12,12 @@
 
 
 ###
- <span>![image](https://github.com/Harish1611/Harish1611/assets/99854022/3eaa8c6b-fcbf-45de-9242-ee133d207ad3)</span>
-
+ <span style="height:40px">![image](https://github.com/Harish1611/Harish1611/assets/99854022/3eaa8c6b-fcbf-45de-9242-ee133d207ad3)</span>
+ <span>
 <h3 align="left">
- <span><a href="https://portfolio-website-react-eta.vercel.app/" target="_blank" > <stong> My Portfolio </stong> </a></span>
+<a href="https://portfolio-website-react-eta.vercel.app/" target="_blank" > <stong> My Portfolio </stong> </a>
 </h3>
+  </span>
 <hr>
 
 
