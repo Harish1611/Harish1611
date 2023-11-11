@@ -12,12 +12,14 @@
 
 
 ###
+<div  align="left">
  <span > <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/99854022/282248825-3eaa8c6b-fcbf-45de-9242-ee133d207ad3.png" alt="mongodb"  height="30"  /> </span>
  <span>
-<h3 align="left">
+<h3>
 <a href="https://portfolio-website-react-eta.vercel.app/" target="_blank" > <stong> My Portfolio </stong> </a>
 </h3>
   </span>
+ </div>
 <hr> 
 
 
