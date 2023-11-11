@@ -7,7 +7,7 @@
 
 <div  align="left">
 <h3>
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/99854022/282250917-f81f7475-1d4e-4c50-b897-6700b4e6ba61.png"  alt="About_Me"  height="20"  /> About Me
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/99854022/282250917-f81f7475-1d4e-4c50-b897-6700b4e6ba61.png"  alt="About_Me"  height="10"  /> About Me
 </h3>
  </div>
  
