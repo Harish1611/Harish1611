@@ -14,8 +14,8 @@
 ###
 
 <h3 align="left">
-![image](https://github.com/Harish1611/Harish1611/assets/99854022/3eaa8c6b-fcbf-45de-9242-ee133d207ad3)</span>
- <span><a href="https://portfolio-website-react-eta.vercel.app/" target="_blank" > <stong> My Portfolio </stong> </a></span>
+ <span>![image](https://github.com/Harish1611/Harish1611/assets/99854022/3eaa8c6b-fcbf-45de-9242-ee133d207ad3)</span>
+<a href="https://portfolio-website-react-eta.vercel.app/" target="_blank" > <stong> My Portfolio </stong> </a></span>
 </h3>
 <hr>
 
