@@ -14,6 +14,7 @@
 ###
 
 <p align="left"> I'm Harish Naidu from Vijayawada, India <br><br>- 🔭 I’m currently looking for an Opportunity <br> - ⚡ Interested Roles: Software Developer/ Fullstack Developer</p>
+ <br> - ⚡ contact me: harishnaidub005@gmail.com</p>
 
 
 <div  align="left">
