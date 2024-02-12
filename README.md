@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Harish Naidu Bonam</h1>
-<h3 align="center">MERN Stack Developer</h3>
+<h3 align="center">Full Stack / MERN Stack Developer</h3>
 
 
 ###
@@ -13,7 +13,7 @@
  
 ###
 
-<p align="left"> I'm Harish Naidu from Vijayawada, India <br><br>- 🔭 I’m currently looking for an Opportunity <br> - ⚡ Interested Roles: Software Developer/ Fullstack Developer
+<p align="left"> I'm Harish Naidu from Vijayawada, India <br><br>- 🔭 I’m currently working on PMM System other projects <br> - ⚡ Professional Full Stack Developer
  <br> - ⚡ contact me: <a href="mailto:harishnaidub005@gmail.com "> harishnaidub005@gmail.com </a> </p>
 
 
