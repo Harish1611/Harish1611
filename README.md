@@ -13,7 +13,7 @@
  
 ###
 
-<p align="left"> I'm Harish Naidu from Vijayawada, India <br><br>- 🔭 I’m currently working on <a href="https://pharma-medical-management-system.vercel.app/"> PMM System </a> & other projects <br> - ⚡ Professional Full Stack Developer
+<p align="left"> I'm Harish Naidu from Vijayawada, India <br><br>- 🔭 I’m currently working on <a href="https://pharma-medical-management-system.vercel.app/"> PMM Systems </a> & other projects <br> - ⚡ Professional Full Stack Developer
  <br> - 📧 contact me: <a href="mailto:harishnaidub005@gmail.com "> harishnaidub005@gmail.com </a> </p>
 
 
