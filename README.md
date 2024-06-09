@@ -77,7 +77,7 @@
 ### Primary Tech Stack:
 
 | Nodejs | Reactjs | Expressjs | MongoDB | Git  | 
-|----------|----------|----------|----------|----------|----------|----------|----------|
+|----------|----------|----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="react logo"  />|  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express"  width="55" height="55" >|   <img src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-3-1175138.png" alt="mongodb"  width="55" height="55" >|  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|  
 
 
